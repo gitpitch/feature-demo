@@ -24,4 +24,4 @@
 #HSLIDE
 
 ### Learn By Example
-#### View The <a target="_blank" href="https://github.com/gitpitch/feature-demo/blob/image-animation/PITCHME.md">Presentation Markdown</a>
+#### View The <a target="_blank" href="https://github.com/gitpitch/feature-demo/blob/image-workflows/PITCHME.md">Presentation Markdown</a>
