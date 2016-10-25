@@ -1,13 +1,13 @@
 ## MathJax
-## (Beautiful Math)
+### (Beautiful Math)
 ## Feature Demonstration
 
 #HSLIDE
 
 ### Tips!
 
-- See [Wiki](https://github.com/gitpitch/gitpitch/wiki/Math-Notation-Slides) for feature How-To
-- Set [mathjax](https://github.com/gitpitch/gitpitch/wiki/Math-Notation-Setting) in `PITCHME.yaml`
+- See <a target="_blank" href="https://github.com/gitpitch/gitpitch/wiki/Math-Notation-Slides">Wiki</a> for feature How-To
+- Set <a target="_blank" href="https://github.com/gitpitch/gitpitch/wiki/Math-Notation-Setting">mathjax</a> prop in `PITCHME.yaml`
 - Press `F` to go fullscreen!
 
 #HSLIDE
@@ -46,5 +46,5 @@ This expression `\(\sqrt{3x-1}+(1+x)^2\)` is an example of an inline equation.
 #HSLIDE
 
 ### Learn By Example
-#### View The [Presentation Markdown](https://github.com/gitpitch/feature-demo/blob/mathjax/PITCHME.md)
+#### View The <a target="_blank" href="https://github.com/gitpitch/feature-demo/blob/mathjax/PITCHME.md">Presentation Markdown</a>
 
