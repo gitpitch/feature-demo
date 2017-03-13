@@ -2,7 +2,7 @@
 ## 
 ## Feature Demonstration
 
-#HSLIDE
+---
 
 ### Tips!
 
@@ -10,7 +10,7 @@
 - Simply enable `charts` property in your `PITCHME.yaml`
 - Press `F` to go fullscreen!
 
-#HSLIDE
+---
 
 <canvas data-chart="line">
 <!-- 
@@ -33,7 +33,7 @@
 -->
 </canvas>
 
-#HSLIDE
+---
 
 <canvas class="stretch" data-chart="bar">
 My first dataset, 65, 59, 80, 81, 56, 55, 40
@@ -49,7 +49,7 @@ My second dataset, 28, 48, 40, 19, 86, 27, 90
 -->
 </canvas>
 
-#HSLIDE
+---
 
 <canvas data-chart="radar">
 Month, January, February, March, April, May, June, July
@@ -57,7 +57,7 @@ My first dataset, 65, 59, 80, 81, 56, 55, 40
 My second dataset, 28, 48, 40, 19, 86, 27, 90
 </canvas>
 
-#HSLIDE
+---
 
 ### Learn By Example
 #### View The <a target="_blank" href="https://github.com/gitpitch/feature-demo/blob/charts/PITCHME.md">Presentation Markdown</a>
