@@ -2,7 +2,7 @@
 ### (Workflows)
 ## Feature Demonstration
 
-#HSLIDE
+---
 
 ### Tips!
 
@@ -12,16 +12,16 @@
 - Optimize images using services like <a target="_blank" href="https://tinypng.com">tinypng.com</a>
 - Press `F` to go fullscreen!
 
-#HSLIDE?image=assets/samba-01.jpg
+---?image=assets/samba-01.jpg
 <!-- .slide: data-background-transition="none" -->
-#HSLIDE?image=assets/samba-02.jpg
+---?image=assets/samba-02.jpg
 <!-- .slide: data-background-transition="none" -->
-#HSLIDE?image=assets/samba-03.jpg
+---?image=assets/samba-03.jpg
 <!-- .slide: data-background-transition="none" -->
-#HSLIDE?image=assets/samba-04.jpg
+---?image=assets/samba-04.jpg
 <!-- .slide: data-background-transition="none" -->
 
-#HSLIDE
+---
 
 ### Learn By Example
 #### View The <a target="_blank" href="https://github.com/gitpitch/feature-demo/blob/image-workflows/PITCHME.md">Presentation Markdown</a>
