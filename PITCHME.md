@@ -1,6 +1,6 @@
 ## The Kitchen Sink
 
-##### <span style="font-family:Helvetica Neue; font-weight:bold">A <span style="color:#e49436">Composable</span> Markdown Demo</span>
+##### <span style="font-family:Helvetica Neue; font-weight:bold">A <span style="color:#e49436">Modular</span> Markdown Demo</span>
 
 ---?include=presentation/features/themes.md
 
@@ -34,5 +34,5 @@
 
 ### Learn By Example
 
-#### View The <a target="_blank" href="https://github.com/gitpitch/feature-demo/blob/composable-markdown/PITCHME.md">Presentation Markdown</a>
+#### View The <a target="_blank" href="https://github.com/gitpitch/feature-demo/blob/modular-markdown/PITCHME.md">Presentation Markdown</a>
 
