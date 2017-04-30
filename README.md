@@ -9,3 +9,4 @@ This repo contains a number of sample GitPitch presentations. Each presentation 
 - [MathJax Formulas](https://gitpitch.com/gitpitch/feature-demo/mathjax)
 - [Embedded Charts](https://gitpitch.com/gitpitch/feature-demo/charts)
 - [Fragment Shortcuts](https://gitpitch.com/gitpitch/feature-demo/frag-shortcut-syntax)
+
