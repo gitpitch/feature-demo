@@ -8,4 +8,4 @@ This repo contains a number of sample GitPitch presentations. Each presentation 
 - [Image Workflows](https://gitpitch.com/gitpitch/feature-demo/image-workflows)
 - [MathJax Formulas](https://gitpitch.com/gitpitch/feature-demo/mathjax)
 - [Embedded Charts](https://gitpitch.com/gitpitch/feature-demo/charts)
-- [Fragment Shortcuts](https://gitpitch.com/gitpitch/feature-demo/frag-syntax-shortcuts)
+- [Fragment Shortcuts](https://gitpitch.com/gitpitch/feature-demo/frag-shortcut-syntax)
