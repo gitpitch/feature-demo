@@ -8,7 +8,7 @@
 
 <br>
 
-And enjoy code syntax highlighting for dozens of languages powered by <a target="_blank" href="highlight.js](https://highlightjs.org">highlight.js</a>.
+And enjoy code syntax highlighting for dozens of languages powered by <a target="_blank" href="https://highlightjs.org">highlight.js</a>.
 
 +++
 
