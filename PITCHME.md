@@ -1,50 +1,44 @@
-## MathJax
-### (Beautiful Math)
+## Background Images
+### (Custom Scaling + Sizing)
 ## Feature Demonstration
 
 ---
 
 ### Tips!
 
-- See <a target="_blank" href="https://github.com/gitpitch/gitpitch/wiki/Math-Notation-Slides">Wiki</a> for feature How-To
-- Set <a target="_blank" href="https://github.com/gitpitch/gitpitch/wiki/Math-Notation-Setting">mathjax</a> prop in `PITCHME.yaml`
 - Press `F` to go fullscreen!
 
 ---
 
-`$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$`
+---?image=assets/vanjacobson.png
 
----
+Custom size: not specified
 
-`\begin{align}
-\dot{x} & = \sigma(y-x) \\
-\dot{y} & = \rho x - y - xz \\
-\dot{z} & = -\beta z + xy
-\end{align}`
+Image size defaults to 100% 100%
 
----
 
-##### The Cauchy-Schwarz Inequality
+---?image=assets/vanjacobson.png&size=contain
 
-`\[
-\left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
- \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
-\]`
+Custom size: contain
 
----
+---?image=assets/vanjacobson.png&size=auto
 
-##### The probability of getting \(k\) heads when flipping \(n\) coins is:
+Custom size: auto
 
-`\[P(E) = {n \choose k} p^k (1-p)^{ n-k} \]`
+---?image=assets/vanjacobson.png&size=cover
 
----
+Custom size: cover
 
-##### In-line Mathematics
+---?image=assets/vanjacobson.png&size=90% 90%
 
-This expression `\(\sqrt{3x-1}+(1+x)^2\)` is an example of an inline equation.
+Custom size: 90% 90%
+
+---?image=assets/vanjacobson.png&size=75% 75%
+
+Custom size: 75% 75%
 
 ---
 
 ### Learn By Example
-#### View The <a target="_blank" href="https://github.com/gitpitch/feature-demo/blob/mathjax/PITCHME.md">Presentation Markdown</a>
+#### View The <a target="_blank" href="https://github.com/gitpitch/feature-demo/blob/customize-image-size/PITCHME.md">Presentation Markdown</a>
 
