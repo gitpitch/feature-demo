@@ -27,6 +27,10 @@ Custom size: auto
 
 Custom size: cover
 
+---?image=assets/vanjacobson.png&size=auto 90%
+
+Custom size: auto 90%
+
 ---?image=assets/vanjacobson.png&size=90% 90%
 
 Custom size: 90% 90%
