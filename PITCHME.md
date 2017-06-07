@@ -8,8 +8,6 @@
 
 - Press `F` to go fullscreen!
 
----
-
 ---?image=assets/vanjacobson.png
 
 Custom size: not specified
