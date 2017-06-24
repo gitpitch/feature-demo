@@ -1,5 +1,5 @@
-## Background Images
-### (Custom Scaling + Sizing)
+## Custom Vertical Alignment
+### (Slide-by-Slide)
 ## Feature Demonstration
 
 ---
@@ -7,40 +7,28 @@
 ### Tips!
 
 - Press `F` to go fullscreen!
+- Disable `vertical-center` property in `PITCHME.yaml`
 
----?image=assets/vanjacobson.png
+---
+<!-- .slide: class="center" -->
+## Slide A
 
-Custom size: not specified
+Text on this slide is centered vertically.
 
-Image size defaults to 100% 100%
+---
 
+# Slide B
 
----?image=assets/vanjacobson.png&size=contain
+Text on this slide is **not* centered vertically.
 
-Custom size: contain
+---
+<!-- .slide: class="center" -->
+# Slide C
 
----?image=assets/vanjacobson.png&size=auto
-
-Custom size: auto
-
----?image=assets/vanjacobson.png&size=cover
-
-Custom size: cover
-
----?image=assets/vanjacobson.png&size=auto 90%
-
-Custom size: auto 90%
-
----?image=assets/vanjacobson.png&size=90% 90%
-
-Custom size: 90% 90%
-
----?image=assets/vanjacobson.png&size=75% 75%
-
-Custom size: 75% 75%
+Text on this slide is centered vertically.
 
 ---
 
 ### Learn By Example
-#### View The <a target="_blank" href="https://github.com/gitpitch/feature-demo/blob/customize-image-size/PITCHME.md">Presentation Markdown</a>
 
+#### View The <a target="_blank" href="https://github.com/gitpitch/feature-demo/blob/per-slide-alignment/PITCHME.md">Presentation Markdown</a>
