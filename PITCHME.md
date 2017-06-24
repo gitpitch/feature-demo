@@ -1,8 +1,10 @@
+<!-- .slide: class="center" -->
 ## Custom Vertical Alignment
 ### (Slide-by-Slide)
 ## Feature Demonstration
 
 ---
+<!-- .slide: class="center" -->
 
 ### Tips!
 
@@ -19,7 +21,7 @@ Text on this slide is centered vertically.
 
 # Slide B
 
-Text on this slide is **not* centered vertically.
+Text on this slide is **not** centered vertically.
 
 ---
 <!-- .slide: class="center" -->
@@ -28,6 +30,7 @@ Text on this slide is **not* centered vertically.
 Text on this slide is centered vertically.
 
 ---
+<!-- .slide: class="center" -->
 
 ### Learn By Example
 
