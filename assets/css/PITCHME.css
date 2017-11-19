@@ -1,0 +1,12 @@
+/* Enable List Bullet Icons */
+.reveal ul { list-style: none; }
+
+/* Enable Huge Icons */
+.fa-huge { font-size : 15em; color: #eba3ff; }
+
+/* Custom Icons Colors */
+.fa-pink { color : #eba3ff; }
+.fa-peach { color : #ffa6b9; }
+.fa-lime { color : #b9ff66; }
+
+span.fa-byline { color : gray; }

@@ -1,1 +1,4 @@
-theme: moon
+theme : beige
+theme-override : assets/css/PITCHME.css
+published : true
+footnote : "GitPitch Font Awesome Shortcut Syntax Demo"
