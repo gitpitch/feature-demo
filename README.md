@@ -11,4 +11,4 @@ This repo contains a number of sample GitPitch presentations. Each presentation 
 - [MathJax Formulas](https://gitpitch.com/gitpitch/feature-demo/mathjax)
 - [Slides with Charts](https://gitpitch.com/gitpitch/feature-demo/charts)
 - [List Fragment Shortcuts](https://gitpitch.com/gitpitch/feature-demo/per-slide-alignment)
-- [Slide-by-Slide Custom Alignment](https://gitpitch.com/gitpitch/feature-demo/charts)
+- [Custom Alignment per Slide](https://gitpitch.com/gitpitch/feature-demo/charts)
