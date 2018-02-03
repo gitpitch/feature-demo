@@ -5,8 +5,10 @@ This repo contains a number of sample GitPitch presentations. Each presentation 
 ## Feature Demo Presentations
 
 - [Modular Markdown](https://gitpitch.com/gitpitch/feature-demo/modular-markdown)
+- [Image Size Controls](https://gitpitch.com/gitpitch/feature-demo/customize-image-size)
 - [Image Workflows](https://gitpitch.com/gitpitch/feature-demo/image-workflows)
+- [FontAwesome Icons](https://gitpitch.com/gitpitch/feature-demo/fontawesome-shortcut-syntax)
 - [MathJax Formulas](https://gitpitch.com/gitpitch/feature-demo/mathjax)
 - [Embedded Charts](https://gitpitch.com/gitpitch/feature-demo/charts)
-- [Fragment Shortcuts](https://gitpitch.com/gitpitch/feature-demo/frag-shortcut-syntax)
-
+- [Fragment Shortcuts](https://gitpitch.com/gitpitch/feature-demo/per-slide-alignment)
+- [Slide-by-Slide Alignment](https://gitpitch.com/gitpitch/feature-demo/charts)
