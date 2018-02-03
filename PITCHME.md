@@ -1,5 +1,4 @@
 ## Presentations Using Charts
-<br><br>
 ## Feature Demonstration
 
 ---
