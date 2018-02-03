@@ -4,11 +4,11 @@ This repo contains a number of sample GitPitch presentations. Each presentation 
 
 ## Feature Demo Presentations
 
-- [Modular Markdown](https://gitpitch.com/gitpitch/feature-demo/modular-markdown)
-- [Image Size Controls](https://gitpitch.com/gitpitch/feature-demo/customize-image-size)
-- [Image Workflows](https://gitpitch.com/gitpitch/feature-demo/image-workflows)
-- [FontAwesome Icons](https://gitpitch.com/gitpitch/feature-demo/fontawesome-shortcut-syntax)
-- [MathJax Formulas](https://gitpitch.com/gitpitch/feature-demo/mathjax)
-- [Slides with Charts](https://gitpitch.com/gitpitch/feature-demo/charts)
-- [List Fragment Shortcuts](https://gitpitch.com/gitpitch/feature-demo/per-slide-alignment)
-- [Custom Alignment per Slide](https://gitpitch.com/gitpitch/feature-demo/charts)
+- [Presentation Modular Markdown](https://gitpitch.com/gitpitch/feature-demo/modular-markdown)
+- [Size + Scale Images on Slides](https://gitpitch.com/gitpitch/feature-demo/customize-image-size)
+- [Create Image Workflows](https://gitpitch.com/gitpitch/feature-demo/image-workflows)
+- [Use FontAwesome Icons](https://gitpitch.com/gitpitch/feature-demo/fontawesome-shortcut-syntax)
+- [Use MathJax Formulas](https://gitpitch.com/gitpitch/feature-demo/mathjax)
+- [Add Charts to Slides](https://gitpitch.com/gitpitch/feature-demo/charts)
+- [Use List Fragment Shortcuts](https://gitpitch.com/gitpitch/feature-demo/per-slide-alignment)
+- [Set Custom Alignment per Slide](https://gitpitch.com/gitpitch/feature-demo/charts)
