@@ -10,5 +10,5 @@ This repo contains a number of sample GitPitch presentations. Each presentation 
 - [Use FontAwesome Icons](https://gitpitch.com/gitpitch/feature-demo/fontawesome-shortcut-syntax)
 - [Use MathJax Formulas](https://gitpitch.com/gitpitch/feature-demo/mathjax)
 - [Add Charts to Slides](https://gitpitch.com/gitpitch/feature-demo/charts)
-- [Use List Fragment Shortcuts](https://gitpitch.com/gitpitch/feature-demo/per-slide-alignment)
-- [Set Custom Alignment per Slide](https://gitpitch.com/gitpitch/feature-demo/charts)
+- [Use List Fragment Shortcuts](https://gitpitch.com/gitpitch/feature-demo/frag-shortcut-syntax)
+- [Set Custom Alignment per Slide](https://gitpitch.com/gitpitch/feature-demo/per-slide-alignment)
