@@ -9,6 +9,7 @@
 
 - See <a target="_blank" href="https://github.com/gitpitch/gitpitch/wiki/Fragment-Slides">Wiki</a> for feature How-To
 - Press `F` to go fullscreen!
+- Press `S` for speaker notes.
 
 ---
 
