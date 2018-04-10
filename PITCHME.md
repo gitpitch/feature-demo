@@ -1,5 +1,6 @@
 ## Fragment Slides
-### (Shortcut Syntax)
+#### Shortcut Syntax
+#### with Speaker Notes
 ## Feature Demonstration
 
 ---
@@ -11,28 +12,85 @@
 
 ---
 
+### Unordered Lists
+<br>
 
-# Numbers
+@ul
 
-- 1 |
-- 2 |
-- 3 |
+- Plain text list item @note[Cool! Fragment specific speaker notes :)]
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
 
----
-
-# Letters
-
-- A |
-- B |
-- C |
+@ulend
 
 ---
 
-# Metavariables
+### Unordered Lists
+#### Custom Styling
+<br>
 
-- Foo |
-- Bar |
-- Baz |
+@ul[squares]
+
+- Plain text list item @note[Cool! Fragment specific speaker notes :)]
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
+
+@ulend
+
+---
+
+### Unordered Lists
+#### Custom Styling
+<br>
+
+@ul[circles]
+
+- Plain text list item @note[Cool! Fragment specific speaker notes :)]
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
+
+@ulend
+
+---
+
+### Ordered Lists
+<br>
+
+@ol
+
+- Plain text list item @note[Cool! Fragment specific speaker notes :)]
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
+
+@olend
+
+---
+
+### Ordered Lists
+#### Custom Styling
+<br>
+
+@ol[roman]
+
+- Plain text list item @note[Cool! Fragment specific speaker notes :)]
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
+
+@olend
+
+---
+
+### Ordered Lists
+#### Custom Styling
+<br>
+
+@ol[alpha]
+
+- Plain text list item @note[Cool! Fragment specific speaker notes :)]
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
+
+@olend
 
 ---
 
