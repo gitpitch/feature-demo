@@ -1,0 +1,23 @@
+.gold {
+  color: #e49436;
+}
+
+.byline {
+  color: gray;
+  font-size: 0.9em !important;
+}
+
+.shrink {
+  color: gray;
+  font-size: 0.6em !important;
+}
+
+.circles {
+  list-style-type: circle !important;
+  list-style-position: inside !important;
+}
+
+.circles li {
+  font-size: 0.80em !important;
+}
+

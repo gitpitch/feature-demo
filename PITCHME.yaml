@@ -1,0 +1,10 @@
+
+theme : night
+
+theme-override : assets/css/PITCHME.css
+
+layout : top
+
+transition : none
+
+footnote : GitPitch Surveys Feature Demo
