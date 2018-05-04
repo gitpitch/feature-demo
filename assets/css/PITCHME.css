@@ -1,0 +1,51 @@
+
+.reveal ol {
+  list-style-position: inside;
+}
+
+.reveal ol li {
+  margin: 0 0 20px 0 !important;
+}
+
+.reveal ul {
+  list-style-type: square;
+  list-style-position: inside !important;
+}
+
+.reveal ul li {
+   margin:0 0 10px 0;
+}
+
+.reveal ul.shrink-items li {
+   margin:0 0 10px 0;
+   font-size: 0.9em;
+}
+
+.reveal ul.many-items li {
+   margin:0 0 8px 0;
+   font-size: 0.6em;
+}
+
+.reveal ul.long-items li {
+   font-size: 0.75em;
+   margin:0 0 15px 0;
+}
+
+div.activity-details {
+  font-size: 0.9em;
+  margin-bottom: 30px;
+}
+
+.reveal table {
+  font-size: 0.75em;
+}
+
+.reveal table th, .reveal table td {
+  padding: 1em 0.5em 1em 0.5em;
+}
+
+.footnote {
+  color: gray;
+  font-size: 0.5em !important;
+}
+
