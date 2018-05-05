@@ -1,46 +1,92 @@
-## Background Images
-### (Custom Scaling + Sizing)
-## Feature Demonstration
+---?image=assets/img/stormtrooper-on-sand.jpg
 
----
+## GitPitch Image Magic
 
-### Tips!
+#### A Quick Feature Tour
 
-- Press `F` to go fullscreen!
+---?image=assets/img/stormtrooper-on-sand.jpg&opacity=40
 
----?image=assets/vanjacobson.png
+### Apply Opacity masks to any background image
+#### This helps to make your text stand out
 
-Custom size: not specified
+---?image=assets/img/giraffes.jpg
 
-Image size defaults to 100% 100%
+### Start with fullscreen background images
+
+---?image=assets/img/giraffes.jpg&size=auto 50%&color=#CCDAE7
+
+### Size and scale to fit your needs
+
+---?image=assets/img/giraffes.jpg&size=auto 50%&position=bottom&color=#CCDAE7
+
+### Then position images wherever you need them on your slides
+
+---?image=assets/img/monkey.jpg&size=50% 100%&color=lightgray&opacity=100
+
+### Handle image aspect ratios that differ from your slideshow
+
+---?image=assets/img/ballerina.jpg&size=auto 75%&position=bottom&color=#b7410e
+
+### @color[white](Fill the background with custom colors for visual pop)
+
+---?color=black
+
+### @color[white](Layout images side-by-side)
+
+@div[left-50]
+<br><br>
+![MONKEY](assets/img/cat-eyes.jpg)
+@divend
+
+@div[right-50]
+<br><br>
+![MONKEY](assets/img/cat-grouchy.jpg)
+@divend
+
+---?color=black
+
+### @color[white](Layout text alongside images)
+
+@div[left-50]
+<br>
+![MONKEY](assets/img/zebra.jpg)
+@divend
+
+@div[right-50]
+<br><br><br>
+@ul[brighten]
+- Present
+- Your
+- Ideas
+- Step-by-step
+@ulend
+@divend
+
+---?color=black
+
+### @color[white](Even present images step-by-step)
+
+@div[left-50 fragment]
+![MONKEY](assets/img/baboon.jpg)
+@divend
+
+@div[right-50 fragment]
+![MONKEY](assets/img/orangutan.jpg)
+@divend
+
+---?image=assets/img/stormtroopers.jpg
+
+### No apologies needed.
+### Just Markdown Image Magic.
+
+---?color=black
+
+<br><br><br>
+
+## @color[white](Image Magic)
+## @color[#e49436](From GitPitch with @fa[heart])
+
+@size[0.5em](Please remember to <a href="http://tinypng.com">size optimize</a> your slideshow images for use on the Web.)
 
 
----?image=assets/vanjacobson.png&size=contain
-
-Custom size: contain
-
----?image=assets/vanjacobson.png&size=auto
-
-Custom size: auto
-
----?image=assets/vanjacobson.png&size=cover
-
-Custom size: cover
-
----?image=assets/vanjacobson.png&size=auto 90%
-
-Custom size: auto 90%
-
----?image=assets/vanjacobson.png&size=90% 90%
-
-Custom size: 90% 90%
-
----?image=assets/vanjacobson.png&size=75% 75%
-
-Custom size: 75% 75%
-
----
-
-### Learn By Example
-#### View The <a target="_blank" href="https://github.com/gitpitch/feature-demo/blob/customize-image-size/PITCHME.md">Presentation Markdown</a>
 
