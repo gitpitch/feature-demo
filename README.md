@@ -6,6 +6,7 @@ This repo contains a number of sample GitPitch presentations. Each presentation 
 
 - [GitPitch Surveys](https://gitpitch.com/gitpitch/feature-demo/surveys)
 - [Presentation Modular Markdown](https://gitpitch.com/gitpitch/feature-demo/modular-markdown)
+- [Image Magic](https://gitpitch.com/gitpitch/feature-demo/image-magic)
 - [Size + Scale Images on Slides](https://gitpitch.com/gitpitch/feature-demo/customize-image-size)
 - [Create Image Workflows](https://gitpitch.com/gitpitch/feature-demo/image-workflows)
 - [Use FontAwesome Icons](https://gitpitch.com/gitpitch/feature-demo/fontawesome-shortcut-syntax)
