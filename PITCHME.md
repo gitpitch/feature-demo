@@ -81,10 +81,14 @@
 
 ---?color=black
 
-<br><br><br>
+<br><br>
 
 ## @color[white](Image Magic)
 ## @color[#e49436](From GitPitch with @fa[heart])
+
+<br>
+
+#### View the [presentation markdown](https://github.com/gitpitch/feature-demo/blob/customize-image-size/PITCHME.md).
 
 @size[0.5em](Please remember to <a href="http://tinypng.com">size optimize</a> your slideshow images for use on the Web.)
 
