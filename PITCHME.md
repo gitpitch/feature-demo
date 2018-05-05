@@ -88,7 +88,7 @@
 
 <br>
 
-#### View the [presentation markdown](https://github.com/gitpitch/feature-demo/blob/customize-image-size/PITCHME.md).
+#### View the [presentation markdown](https://github.com/gitpitch/feature-demo/blob/image-magic/PITCHME.md).
 
 @size[0.5em](Please remember to <a href="http://tinypng.com">size optimize</a> your slideshow images for use on the Web.)
 
