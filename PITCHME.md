@@ -180,7 +180,7 @@ User Experience Design Processes
 <br><br><br>
 ### These look really detailed and appealing, but are they always practical?
 
----?image=assets/img/UCD_new.gif&size=auto 90%
+---?image=assets/img/UCD_new.gif&size=auto 90%&color=white
 
 ---?image=assets/img/typical_ucd.gif
 
