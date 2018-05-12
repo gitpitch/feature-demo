@@ -10,12 +10,12 @@ more to take away.”
 
 — Antoine de Saint-Exupéry
 
----?color=#9BBAAD
+---?color=#618B25
 
 <br><br><br>
 ### What does a holistic user experience design process look like?
 
----?color=#9BBAAD
+---?color=#618B25
 
 ### Topics to Explore
 <br>
@@ -26,7 +26,7 @@ more to take away.”
 - Our Design Process (aka Toolkit)
 @olend
 
----?color=#7B1B46
+---?color=#611036
 
 <br><br><br>
 ### What does a holistic user experience design process look like?
@@ -48,7 +48,7 @@ Sotware Development Processes
 - Long feedback and development cycles
 @ulend
 
----?color=#3881A2
+---?color=#2d6e92
 
 ### Activity: Pop Quiz
 <br>
@@ -56,25 +56,25 @@ Sotware Development Processes
 Courtesy of the Safari Books Online course 'Agile for
 Everybody - The Essentials of Agile and Lean' by Matt LeMay
 
----?color=#3881A2
+---?color=#2d6e92
 
 #### True or False?
 
 Agile and Lean are about doing things faster
 
----?color=#3881A2
+---?color=#2d6e92
 
 #### True or False?
 
 Agile and Lean are rigid frameworks
 
----?color=#3881A2
+---?color=#2d6e92
 
 #### True or False?
 
 Agile and Lean are only for software developers
 
----?image=assets/img/agile-method.png&size=auto 95%&color=white
+---?image=assets/img/general-trends-in-agile-approaches.png&size=auto 95%&color=white
 
 ---
 
@@ -86,7 +86,7 @@ Working software over comprehensive documentation
 Customer collaboration over contract negotiation
 Responding to change over following a plan
 
----?image=assets/img/ux-practice.jpg
+---?image=assets/img/simple_ux_relevance_model_sm.jpg
 
 
 ---
@@ -94,14 +94,13 @@ Responding to change over following a plan
 <br><br><br>
 ### With Agile we can combine iterative design with incremental development...
 
----?image=assets/img/numerical-filter.jpg&size=auto 85%
+---?image=assets/img/numericalfilter.jpg&size=auto 75%
 
 
 ---
 
 ### Lean Development
 ##### Based on the Toyota Way*
-<br>
 
 @ul[long-items](false)
 - A mindset, or **way of thinking**, commitment to achieve a totally waste-free opera8on that’s focused on your customer’s success
@@ -113,7 +112,7 @@ Responding to change over following a plan
 
 @css[footnote](* Source: David Hogg, High Performance Solutions, 2008)
 
----?image=assets/img/measure-learn-build.jpg
+---?image=assets/img/1*iXEqTEWoNHg_FrHMeCV6Zw.png
 
 ---
 
@@ -125,7 +124,7 @@ A hypothesis can be defined as an educated guess that then can be tested to be s
 
 ![VIDEO](https://www.youtube.com/embed/_w-NUOjwMto)
 
-@size[0.9em](https://www.youtube.com/embed/_w-NUOjwMto)
+@size[0.9em](https://www.youtube.com/watch?v=_w-NUOjwMto)
 
 ---
 
@@ -137,7 +136,7 @@ A hypothesis can be defined as an educated guess that then can be tested to be s
 - We believe that our customers will be able to complete the checkout process because it is very simple
 @ulend
 
----?color=#3881A2
+---?color=#2d6e92
 
 ### Activity: Write a Hypothesis
 
@@ -163,55 +162,55 @@ We believe that our customers will find the "add to cart" button because it is h
 <br><br><br><br>
 ### Waterfall vs. Agile vs. Lean?
 
----?image=assets/img/problem-solution-space.jpg
+---?image=assets/img/b049ba30dbaa6b13996f3bfc4e7151b9-650-80.jpg
 
----?color=#761B46
+---?color=#611036
 
 <br><br><br>
 ### What does a holistic user experience design process look like?
 <br>
 User Experience Design Processes
 
----?image=assets/img/design-process.jpg&size=cover
+---?image=assets/img/scm-ucd.jpg
 
----?image=assets/img/design-process-diagram.jpg&size=cover
+---?image=assets/img/9200916481_77e82e113c_b.jpg
 
 ---
 
 <br><br><br>
 ### These look really detailed and appealing, but are they always practical?
 
----?image=assets/img/user-centered-design.jpg&size=auto 90%&color=white
+---?image=assets/img/UCD_new.gif&size=auto 90%
 
----?image=assets/img/ucd-process.jpg
+---?image=assets/img/typical_ucd.gif
 
 ---
 
 <br><br><br>
 ### These look more approachable, but do they give enough specifics?
 
----?color=#761B46
+---?color=#611036
 
 <br><br><br>
 ### What does a holistic user experience design process look like?
 <br>
 Our UX Design Process (aka Toolkit)
 
----?image=assets/img/ubg.png&size=cover
+---?image=assets/img/ux-toolkit-1.png&size=contain&color=white
 
----?image=assets/img/ubg-research.png&size=cover
+---?image=assets/img/ux-toolkit-2.png&size=contain&color=white
 
----?image=assets/img/ubg-research-design.png&size=cover
+---?image=assets/img/ux-toolkit-3.png&size=contain&color=white
 
----?image=assets/img/ubg-1.png&size=cover
+---?image=assets/img/ux-toolkit-4.png&size=contain&color=white
 
----?image=assets/img/ubg-2.png&size=cover
+---?image=assets/img/ux-toolkit-5.png&size=contain&color=white
 
----?image=assets/img/ubg-3.png&size=cover
+---?image=assets/img/ux-toolkit-6.png&size=contain&color=white
 
----?image=assets/img/ubg-4.png&size=cover
+---?image=assets/img/ux-toolkit-7.png&size=contain&color=white
 
----?image=assets/img/ubg-5.png&size=cover
+---?image=assets/img/ux-toolkit-8.png&size=contain&color=white
 
 ---
 
@@ -223,12 +222,12 @@ Our UX Design Process (aka Toolkit)
 - Conceptualize & prototype
 - Evaluate & Refine 
 
----?color=#A1CEDC
+---?color=#92c3d5
 
 <br><br><br><br>
 ### @color[black](Discover & Understand)
 
----?image=assets/img/ubg-5.png&size=cover
+---?image=assets/img/ux-toolkit-8.png&size=contain&color=white
 
 ---
 
@@ -255,7 +254,7 @@ Our UX Design Process (aka Toolkit)
 
 ![VIDEO](https://www.youtube.com/embed/1IwT2VD5CJo)
 
-@size[0.9em](https://www.youtube.com/embed/1IwT2VD5CJo)
+@size[0.9em](https://www.youtube.com/watch?v=1IwT2VD5CJo)
 
 ---
 
@@ -301,7 +300,7 @@ Our UX Design Process (aka Toolkit)
 - Where would they be using the system?
 @ulend
 
----?color=#3881A2
+---?color=#2d6e92
 
 ### Activity: User Goals vs. Tasks
 
@@ -334,7 +333,7 @@ Examples of student goals and tasks for using the GoSFU course registration syst
 
 ---
 
-### Organizing an Interface by Tasks
+### @size[0.9em](Organizing an Interface by Tasks)
 <br>
 
 @ul[shrink-items](false)
@@ -344,12 +343,12 @@ Examples of student goals and tasks for using the GoSFU course registration syst
 - Unimportant & infrequent - lower visibility, more taps
 @ulend
 
----?color=#ADACC1
+---?color=#9d9bb4
 
 <br><br><br><br>
 ### @color[black](Strategize & Prioritize)
 
----?image=assets/img/ubg-5.png&size=cover
+---?image=assets/img/ux-toolkit-8.png&size=contain&color=white
 
 ---
 
@@ -421,15 +420,15 @@ Examples of student goals and tasks for using the GoSFU course registration syst
 - Consider visualizing results (e.g. word cloud)
 @ulend
 
----?image=assets/img/wordcloudbig.jpg
+---?image=assets/img/A-word-cloud-based-on-the-frequency-of-the-selected-product-reaction-cards.png
 
 
----?color=#C6BF5C
+---?color=#bbb549
 
 <br><br><br><br>
 ### @color[black](Conceptualize & Prototype)
 
----?image=assets/img/ubg-5.png&size=cover
+---?image=assets/img/ux-toolkit-8.png&size=contain&color=white
 
 ---
 
@@ -457,16 +456,16 @@ Examples of student goals and tasks for using the GoSFU course registration syst
 
 An approach where real content is utilized early on during a project for the creation of all prototypes
 
----?image=assets/img/lorem-ipsum.jpg
+---?image=assets/img/fake3.jpg&size=contain
 
----?image=assets/img/uxpin.jpg&size=auto 90%&color=black
+---?image=assets/img/fake4.jpg&size=contain
 
----?color=#D2AD8A
+---?color=#c79d78
 
 <br><br><br><br>
 ### @color[black](Evaluate & Refine)
 
----?image=assets/img/ubg-5.png&size=cover
+---?image=assets/img/ux-toolkit-8.png&size=contain&color=white
 
 ---
 
@@ -503,16 +502,16 @@ An approach where real content is utilized early on during a project for the cre
 
 ---?image=assets/img/wordcloud.jpg&size=auto 70%
 
----?color=#3881A2
+---?color=#2d6e92
 
-### Activity: Product Reaction Cards
+### @size[0.95em](Activity: Product Reaction Cards)
 <br>
 
 - Pick one word to describe how you feel when using the GoSFU course registration system
 
----?image=assets/img/ubg-5.png&size=cover
+---?image=assets/img/ux-toolkit-8.png&size=contain&color=white
 
----
+---?color=#618B25
 
 ### Summary
 <br>
@@ -521,7 +520,7 @@ An approach where real content is utilized early on during a project for the cre
 - User Experience Design Processes
 - Our Design Process (aka Toolkit)
 
----
+---?color=#888888
 
 #### References and Suggested Books
 <br>
@@ -534,5 +533,26 @@ An approach where real content is utilized early on during a project for the cre
 - Rocket Surgery Made Easy by Steve Krug
 - UX Team of One by Leah Buley
 @ulend
+
+---
+
+### Image Credits
+
+<br><br>
+
+@ul[image-credit-items](false)
+- https://en.wikipedia.org/wiki/Waterfall_model
+- https://www.360logica.com/blog/general-trends-in-agile-approaches/general-trends-in-agile-approaches/
+- https://jpattonassociates.com/emerging_best_agile_ux_practice/
+- http://blog.caplin.com/2015/09/30/incremental-ux/
+- https://medium.com/swlh/startup-science-applied-5d6ea13f6b5c
+- https://www.creativebloq.com/netmag/introduction-lean-3126388
+- http://www.insightfulempathy.com/research-methods/design-process-semantics/
+- http://boxesandarrows.com/bringing-user-centered-design-to-the-agile-environment/
+- https://www.researchgate.net/publication/220886299_Visualizing_Activities_for_Self-reflection_and_Awareness
+- https://thenextweb.com/dd/2015/04/09/why-designers-should-never-use-fake-text/
+- https://blinkux.com/blog/getting-a-reaction-out-of-participants-with-a-modified-card-sorting-technique/
+@ulend
+
 
 
