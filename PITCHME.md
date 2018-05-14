@@ -60,7 +60,7 @@
 - Ideas
 - Step-by-step
 @ulend
-@2divend
+@divend
 
 ---?image=assets/img/face.jpg&size=auto 60%&repeat=repeat-x&color=black
 
