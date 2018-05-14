@@ -96,7 +96,8 @@
 ---
 
 ### Nested Lists
-#### Static Items
+#### Static Items - Custom Styling
+<br>
 
 @ul[spaced-list-items](false)
 - First Top-Level Item
@@ -110,7 +111,8 @@
 ---
 
 ### Nested Lists
-#### Fragment Items
+#### Fragment Items - Custom Styling
+<br>
 
 @ul[spaced-list-items]
 - First Top-Level Item
