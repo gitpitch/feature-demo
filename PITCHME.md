@@ -62,6 +62,10 @@
 @ulend
 @divend
 
+---?image=assets/img/face.jpg&size=auto 60%&repeat=repeat-x&color=black
+
+### @color[white](Repeat background images)
+
 ---?color=black
 
 ### @color[white](Even present images step-by-step)
@@ -88,7 +92,7 @@
 
 <br>
 
-#### View the [presentation markdown](https://github.com/gitpitch/feature-demo/blob/customize-image-size/PITCHME.md).
+#### View the [presentation markdown](https://github.com/gitpitch/feature-demo/blob/image-magic/PITCHME.md).
 
 @size[0.5em](Please remember to <a href="http://tinypng.com">size optimize</a> your slideshow images for use on the Web.)
 
