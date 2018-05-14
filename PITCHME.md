@@ -60,7 +60,11 @@
 - Ideas
 - Step-by-step
 @ulend
-@divend
+@2divend
+
+---?image=assets/img/face.jpg&size=auto 60%&repeat=repeat-x&color=black
+
+### @color[white](Repeat background images)
 
 ---?color=black
 
