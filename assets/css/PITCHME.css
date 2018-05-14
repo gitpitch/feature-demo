@@ -18,3 +18,11 @@
     list-style-position: outside !important;
 }
 
+.li-nested-item {
+    list-style-type: square !important;
+}
+
+.reveal ul.spaced-list-items li {
+   margin:0 0 6px 0;
+}
+

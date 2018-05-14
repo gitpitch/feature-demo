@@ -95,6 +95,34 @@
 
 ---
 
+### Nested Lists
+#### Static Items
+
+@ul[spaced-list-items](false)
+- First Top-Level Item
+  + Plain text list item @note[Cool! Fragment specific speaker notes :)]
+  + Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
+- Second Top-Level Item
+  + Another plain text list item @note[Cool! Fragment specific speaker notes :)]
+  + Rich **markdown** list *item*
+@ulend
+
+---
+
+### Nested Lists
+#### Fragment Items
+
+@ul[spaced-list-items]
+- First Top-Level Item
+  + Plain text list item @note[Cool! Fragment specific speaker notes :)]
+  + Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
+- Second Top-Level Item
+  + Another plain text list item @note[Cool! Fragment specific speaker notes :)]
+  + Rich **markdown** list *item*
+@ulend
+
+---
+
 ### Learn By Example
 #### View The <a target="_blank" href="https://github.com/gitpitch/feature-demo/blob/frag-shortcut-syntax/PITCHME.md">Presentation Markdown</a>
 
