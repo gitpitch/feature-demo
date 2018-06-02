@@ -14,7 +14,7 @@
 
 ## How Awesome?
 
-@fa[rocket fa-5x]
+@fa[rocket fa-5x fa-spin]
 
 <br>
 <span class="fa-byline">Over 600 icons at your fingertips ;-)</span>
