@@ -12,14 +12,10 @@
 - Optimize images using services like <a target="_blank" href="https://tinypng.com">tinypng.com</a>
 - Press `F` to go fullscreen!
 
----?image=assets/samba-01.jpg
-<!-- .slide: data-background-transition="none" -->
----?image=assets/samba-02.jpg
-<!-- .slide: data-background-transition="none" -->
----?image=assets/samba-03.jpg
-<!-- .slide: data-background-transition="none" -->
----?image=assets/samba-04.jpg
-<!-- .slide: data-background-transition="none" -->
+---?image=assets/samba-01.jpg&transition=none
+---?image=assets/samba-02.jpg&transition=none
+---?image=assets/samba-03.jpg&transition=none
+---?image=assets/samba-04.jpg&transition=none
 
 ---
 
