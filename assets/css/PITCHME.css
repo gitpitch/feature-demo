@@ -1,0 +1,128 @@
+/* The Speaker Bio Styles */
+
+.bio {
+  text-align: center;
+}
+
+.bio img {
+    width: 80%;
+    border-radius: 50%;
+}
+
+.bio-headline {
+  color: white;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  font-size: 1.0em !important;
+}
+
+.bio-byline {
+  color: darkgray;
+  font-size: 0.6em !important;
+}
+
+.bio-tagline {
+  color: gray;
+  font-size: 0.8em !important;
+  font-style: italic !important;
+}
+
+.bio-contact {
+  color: white;
+  font-size: 0.7em !important;
+}
+
+.bio-about {
+  font-size: 0.8em !important;
+}
+
+.fa-bio {
+  color: #E49436;
+}
+
+.fa-pad {
+  padding: 0 20px 0 20px;
+}
+
+/* The Process Styles */
+
+.process {
+  width: 25%;
+  color: white;
+  border-radius: 20px;
+  background-color: black;
+  padding: 30px 20px !important;
+}
+
+.process-go {
+  color: black;
+  background-color: white;
+}
+
+/* The Timeline Styles */
+
+.timeline {
+  color: black;
+  width: 25%;
+  border-radius: 20px;
+  padding: 30px 20px !important;
+}
+
+.timeline hr {
+  border-top: 1px solid black;
+}
+
+.idea {
+  background-color: #F7977A;
+}
+
+.prototype {
+  background-color: #FFF79A;
+}
+
+.launch {
+  background-color: #82CA9D;
+}
+
+.message {
+  color: black;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
+
+/* The Cake Styles */
+
+.cake img {
+  width: 90%;
+  height: 90%;
+}
+
+.recipe {
+  background-color: #1E1E1E;
+  padding: 20px 20px !important;
+}
+
+/* Conference Thanks Styles */
+
+.thanks {
+  width: 80%;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  font-size: 1.1em !important;
+}
+
+/* General Styles */
+
+.black {
+  color: black;
+}
+
+.white {
+  color: white;
+}
+
+.reveal section img {
+  background: none;
+  border: none;
+  box-shadow: none;
+}
