@@ -21,7 +21,7 @@
 ---?color=white
 
 @snap[north-west]
-The Fastest Way From Idea To Presentation
+Bring Your Ideas To Life Using Flexible Slide Layouts
 @snapend
 
 ### Tip!
