@@ -1,38 +1,33 @@
-## The Kitchen Sink
+---?image=assets/img/kitchen-sink.jpg
+@title[Introduction]
 
-##### <span style="font-family:Helvetica Neue; font-weight:bold">A <span style="color:#e49436">Modular</span> Markdown Demo</span>
+@snap[north headline]
+@css[heading](The Kitchen Sink)
+@snapend
 
----?include=presentation/features/themes.md
+@snap[south byline]
+A @color[#e49436](Git)Pitch Feature Tour
+@snapend
 
----?include=presentation/features/markdown.md
+---?include=topics/themes.md
 
----?include=presentation/features/code.md
+---?include=topics/fullscreen.md
 
----?include=presentation/features/gist.md
+---?include=topics/markdown.md
 
----?include=presentation/features/image.md
+---?include=topics/images.md
 
----?include=presentation/features/image-bg.md
+---?include=topics/code.md
 
----?include=presentation/features/video.md
+---?include=topics/layouts.md
 
----?include=presentation/features/video-bg.md
+---?include=topics/fragments.md
 
----?include=presentation/features/math.md
+---?include=topics/rich-media.md
 
----?include=presentation/features/fragments.md
+---?include=topics/settings.md
 
----?include=presentation/features/yaml.md
+---?include=topics/controls.md
 
----?include=presentation/features/controls.md
-
----?include=presentation/features/social.md
-
----?include=presentation/features/go-for-it.md
-
----
-
-### Learn By Example
-
-#### View The <a target="_blank" href="https://github.com/gitpitch/feature-demo/blob/modular-markdown/PITCHME.md">Presentation Markdown</a>
+---?include=topics/call-to-action.md
 

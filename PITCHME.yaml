@@ -1,1 +1,10 @@
+theme-override : assets/css/PITCHME.css
+
+transition : none
+
+code-line-numbers : true
+
+charts : true
 mathjax : TeX-AMS_HTML-full
+
+footnote : "GitPitch - Kitchen Sink Feature Tour" 
