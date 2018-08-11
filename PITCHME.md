@@ -24,6 +24,9 @@
 
 @ulend
 
+Note:
+This is a slide-specific speaker note. It can be temporarily overridden by a fragment-specific speaker note.
+
 ---
 
 ### Unordered Lists
@@ -37,6 +40,9 @@
 - Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
 
 @ulend
+
+Note:
+This is a slide-specific speaker note. It can be temporarily overridden by a fragment-specific speaker note.
 
 ---
 
@@ -52,6 +58,9 @@
 
 @ulend
 
+Note:
+This is a slide-specific speaker note. It can be temporarily overridden by a fragment-specific speaker note.
+
 ---
 
 ### Ordered Lists
@@ -64,6 +73,9 @@
 - Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
 
 @olend
+
+Note:
+This is a slide-specific speaker note. It can be temporarily overridden by a fragment-specific speaker note.
 
 ---
 
@@ -79,6 +91,9 @@
 
 @olend
 
+Note:
+This is a slide-specific speaker note. It can be temporarily overridden by a fragment-specific speaker note.
+
 ---
 
 ### Ordered Lists
@@ -92,6 +107,9 @@
 - Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
 
 @olend
+
+Note:
+This is a slide-specific speaker note. It can be temporarily overridden by a fragment-specific speaker note.
 
 ---
 
@@ -108,6 +126,9 @@
   + Rich **markdown** list *item*
 @ulend
 
+Note:
+This is a slide-specific speaker note. It can be temporarily overridden by a fragment-specific speaker note.
+
 ---
 
 ### Nested Lists
@@ -122,6 +143,9 @@
   + Another plain text list item @note[Cool! Fragment specific speaker notes :)]
   + Rich **markdown** list *item*
 @ulend
+
+Note:
+This is a slide-specific speaker note. It can be temporarily overridden by a fragment-specific speaker note.
 
 ---
 
