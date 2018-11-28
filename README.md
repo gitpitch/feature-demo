@@ -1,7 +1,7 @@
-[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/gitpitch/feature-demo/frag-shortcut-syntax)
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/gitpitch/feature-demo/pro-fonts)
 
-# Markdown Fragment Shortcut Syntax
+# GitPitch Pro Fonts
 
-Demonstrates the use of special shortcut syntax in `PITCHME.md` markdown to mark sections of a slide a fragments. See the [GitPitch Wiki](https://github.com/gitpitch/gitpitch/wiki/Fragment-Slides) for details about Fragment Slides.
+Demonstrates the use of *Pro Fonts* when rendering slide content within `PITCHME.md` markdown. See the [GitPitch Docs](https://gitpitch.com/docs/themes) for further details.
 
-View the `raw` **PITCHME.md** markdown to see how each slide in the presentation has been implemented.
+View the `raw` **PITCHME.md** markdown and accompanying **assets/css/PITCHME.css** to see how each slide in the presentation has been implemented.

@@ -1,154 +1,244 @@
-## Fragment Slides
-#### Shortcut Syntax
-#### with Speaker Notes
-## Feature Demonstration
+---?image=assets/img/quill.png&color=green&position=right&size=40% auto
 
----
+@snap[north-west montserrat-medium]
+## GitPitch
+@snapend
 
-### Tips!
+@snap[west ubuntu-heavy]
+# Pro Fonts
+@snapend
 
-- See <a target="_blank" href="https://github.com/gitpitch/gitpitch/wiki/Fragment-Slides">Wiki</a> for feature How-To
-- Press `F` to go fullscreen!
-- Press `S` for speaker notes.
+@snap[south-west poppins]
+#### Stand out from the crowd with _custom fonts_.
+@snapend
 
----
+---?color=#87B6A7
 
-### Unordered Lists
-<br>
+### @css[montserrat text-white](GitPitch Pro Fonts are available to your slideshows online, offline, and when printing to PDF.)
 
-@ul
+@snap[south raleway span-100 footnote]
+Each slide that follows demonstrates the use of a custom font.
+@snapend
 
-- Plain text list item @note[Cool! Fragment specific speaker notes :)]
-- Rich **markdown** list *item*
-- Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
+---?color=#F79F79
 
-@ulend
+@snap[north-west roboto-heavy]
+# GitPitch
+@snapend
 
-Note:
-This is a slide-specific speaker note. It can be temporarily overridden by a fragment-specific speaker note.
+@snap[north-east roboto]
+@size[0.8em](Roboto)
+@snapend
 
----
+@snap[west roboto text-white]
+For Conferences + Meetups.<br>And the delivery of Training Materials.
+@snapend
 
-### Unordered Lists
-#### Custom Styling
-<br>
+@snap[south-west roboto-medium]
+#### The Fastest Way from Idea to Presentation for Everyone on GitHub, GitLab, and Bitbucket @emoji[heart_eyes]
+@snapend
 
-@ul[squares]
+---?color=#F7D08A
 
-- Plain text list item @note[Cool! Fragment specific speaker notes :)]
-- Rich **markdown** list *item*
-- Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
+@snap[north-west open-sans-heavy]
+# GitPitch
+@snapend
 
-@ulend
+@snap[north-east open-sans]
+@size[0.8em](Open Sans)
+@snapend
 
-Note:
-This is a slide-specific speaker note. It can be temporarily overridden by a fragment-specific speaker note.
+@snap[west open-sans text-gray]
+For Conferences + Meetups.<br>And the delivery of Training Materials.
+@snapend
 
----
+@snap[south-west open-sans-medium]
+#### The Fastest Way from Idea to Presentation for Everyone on GitHub, GitLab, and Bitbucket @emoji[heart_eyes]
+@snapend
 
-### Unordered Lists
-#### Custom Styling
-<br>
+---?color=#87B6A7
 
-@ul[circles]
+@snap[north-west lato-heavy]
+# GitPitch
+@snapend
 
-- Plain text list item @note[Cool! Fragment specific speaker notes :)]
-- Rich **markdown** list *item*
-- Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
+@snap[north-east lato]
+@size[0.8em](Lato)
+@snapend
 
-@ulend
+@snap[west lato text-white]
+For Conferences + Meetups.<br>And the delivery of Training Materials.
+@snapend
 
-Note:
-This is a slide-specific speaker note. It can be temporarily overridden by a fragment-specific speaker note.
+@snap[south-west lato-medium]
+#### The Fastest Way from Idea to Presentation for Everyone on GitHub, GitLab, and Bitbucket @emoji[heart_eyes]
+@snapend
 
----
+---?color=#F79F79
 
-### Ordered Lists
-<br>
+@snap[north-west montserrat-heavy]
+# GitPitch
+@snapend
 
-@ol
+@snap[north-east montserrat]
+@size[0.8em](Montserrat)
+@snapend
 
-- Plain text list item @note[Cool! Fragment specific speaker notes :)]
-- Rich **markdown** list *item*
-- Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
+@snap[west montserrat text-white]
+For Conferences + Meetups.<br>And the delivery of Training Materials.
+@snapend
 
-@olend
+@snap[south-west montserrat-medium]
+#### The Fastest Way from Idea to Presentation for Everyone on GitHub, GitLab, and Bitbucket @emoji[heart_eyes]
+@snapend
 
-Note:
-This is a slide-specific speaker note. It can be temporarily overridden by a fragment-specific speaker note.
+---?color=#F7D08A
 
----
+@snap[north-west oswald-heavy]
+# GitPitch
+@snapend
 
-### Ordered Lists
-#### Custom Styling
-<br>
+@snap[north-east oswald]
+@size[0.8em](Oswald)
+@snapend
 
-@ol[roman]
+@snap[west oswald text-gray]
+For Conferences + Meetups.<br>And the delivery of Training Materials.
+@snapend
 
-- Plain text list item @note[Cool! Fragment specific speaker notes :)]
-- Rich **markdown** list *item*
-- Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
+@snap[south-west oswald-medium]
+#### The Fastest Way from Idea to Presentation for Everyone on GitHub, GitLab, and Bitbucket @emoji[heart_eyes]
+@snapend
 
-@olend
+---?color=#87B6A7
 
-Note:
-This is a slide-specific speaker note. It can be temporarily overridden by a fragment-specific speaker note.
+@snap[north-west source-sans-pro-heavy]
+# GitPitch
+@snapend
 
----
+@snap[north-east source-sans-pro]
+@size[0.8em](Source Sans Pro)
+@snapend
 
-### Ordered Lists
-#### Custom Styling
-<br>
+@snap[west source-sans-pro text-white]
+For Conferences + Meetups.<br>And the delivery of Training Materials.
+@snapend
 
-@ol[alpha]
+@snap[south-west source-sans-pro-medium]
+#### The Fastest Way from Idea to Presentation for Everyone on GitHub, GitLab, and Bitbucket @emoji[heart_eyes]
+@snapend
 
-- Plain text list item @note[Cool! Fragment specific speaker notes :)]
-- Rich **markdown** list *item*
-- Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
+---?color=#F79F79
 
-@olend
+@snap[north-west raleway-heavy]
+# GitPitch
+@snapend
 
-Note:
-This is a slide-specific speaker note. It can be temporarily overridden by a fragment-specific speaker note.
+@snap[north-east raleway]
+@size[0.8em](Raleway)
+@snapend
 
----
+@snap[west raleway text-white]
+For Conferences + Meetups.<br>And the delivery of Training Materials.
+@snapend
 
-### Nested Lists
-#### Static Items - Custom Styling
-<br>
+@snap[south-west raleway-medium]
+#### The Fastest Way from Idea to Presentation for Everyone on GitHub, GitLab, and Bitbucket @emoji[heart_eyes]
+@snapend
 
-@ul[spaced-list-items](false)
-- First Top-Level Item
-  + Plain text list item @note[Cool! Fragment specific speaker notes :)]
-  + Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
-- Second Top-Level Item
-  + Another plain text list item @note[Cool! Fragment specific speaker notes :)]
-  + Rich **markdown** list *item*
-@ulend
+---?color=#F7D08A
 
-Note:
-This is a slide-specific speaker note. It can be temporarily overridden by a fragment-specific speaker note.
+@snap[north-west poppins-heavy]
+# GitPitch
+@snapend
 
----
+@snap[north-east poppins]
+@size[0.8em](Poppins)
+@snapend
 
-### Nested Lists
-#### Fragment Items - Custom Styling
-<br>
+@snap[west poppins text-gray]
+For Conferences + Meetups.<br>And the delivery of Training Materials.
+@snapend
 
-@ul[spaced-list-items]
-- First Top-Level Item
-  + Plain text list item @note[Cool! Fragment specific speaker notes :)]
-  + Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
-- Second Top-Level Item
-  + Another plain text list item @note[Cool! Fragment specific speaker notes :)]
-  + Rich **markdown** list *item*
-@ulend
+@snap[south-west poppins-medium]
+#### The Fastest Way from Idea to Presentation for Everyone on GitHub, GitLab, and Bitbucket @emoji[heart_eyes]
+@snapend
 
-Note:
-This is a slide-specific speaker note. It can be temporarily overridden by a fragment-specific speaker note.
+---?color=#87B6A7
 
----
+@snap[north-west ubuntu-heavy]
+# GitPitch
+@snapend
 
-### Learn By Example
-#### View The <a target="_blank" href="https://github.com/gitpitch/feature-demo/blob/frag-shortcut-syntax/PITCHME.md">Presentation Markdown</a>
+@snap[north-east ubuntu]
+@size[0.8em](Ubuntu)
+@snapend
 
+@snap[west ubuntu text-white]
+For Conferences + Meetups.<br>And the delivery of Training Materials.
+@snapend
+
+@snap[south-west ubuntu-medium]
+#### The Fastest Way from Idea to Presentation for Everyone on GitHub, GitLab, and Bitbucket @emoji[heart_eyes]
+@snapend
+
+---?color=#F79F79
+
+@snap[north-west nunito-sans-heavy]
+# GitPitch
+@snapend
+
+@snap[north-east nunito-sans]
+@size[0.8em](Nunito Sans)
+@snapend
+
+@snap[west nunito-sans text-white]
+For Conferences + Meetups.<br>And the delivery of Training Materials.
+@snapend
+
+@snap[south-west nunito-sans-medium]
+#### The Fastest Way from Idea to Presentation for Everyone on GitHub, GitLab, and Bitbucket @emoji[heart_eyes]
+@snapend
+
+---?color=#F7D08A
+
+@snap[north-west work-sans-heavy]
+# GitPitch
+@snapend
+
+@snap[north-east work-sans]
+@size[0.8em](Work Sans)
+@snapend
+
+@snap[west work-sans text-gray]
+For Conferences + Meetups.<br>And the delivery of Training Materials.
+@snapend
+
+@snap[south-west work-sans-medium]
+#### The Fastest Way from Idea to Presentation for Everyone on GitHub, GitLab, and Bitbucket @emoji[heart_eyes]
+@snapend
+
+---?color=#87B6A7
+
+@snap[north-west prompt-heavy]
+# GitPitch
+@snapend
+
+@snap[north-east prompt]
+@size[0.8em](Prompt)
+@snapend
+
+@snap[west prompt text-white]
+For Conferences + Meetups.<br>And the delivery of Training Materials.
+@snapend
+
+@snap[south-west prompt-medium]
+#### The Fastest Way from Idea to Presentation for Everyone on GitHub, GitLab, and Bitbucket @emoji[heart_eyes]
+@snapend
+
+---?image=assets/img/quill.png&color=green&position=right&size=60% auto
+
+@snap[west poppins span-45 text-white]
+## Pro Fonts
+For further details, see the [GitPitch Docs](https://gitpitch.com/docs/themes).
+@snapend
