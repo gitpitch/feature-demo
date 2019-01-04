@@ -8,7 +8,7 @@
 
 1. See <a target="_blank" href="https://github.com/gitpitch/gitpitch/wiki/Font-Awesome-Icons">Wiki</a> for feature How-To
 1. Press `F` to go fullscreen!
-1. See <a target="_blank" href="http://fontawesome.io/icons">Font Awesome Icon Set</a>
+1. See <a target="_blank" href="https://fontawesome.com/v4.7.0/">Font Awesome 4.7 Icon Set</a>
 
 ---
 
