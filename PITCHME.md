@@ -1,5 +1,5 @@
 @snap[north span-100]
-### GitPitch Pro Live Terminal Sessions
+### GitPitch Pro Terminal Sessions
 @snapend
 
 @snap[midpoint span-100]
