@@ -7,7 +7,7 @@
 @snapend
 
 @snap[south text-06 text-gray span-100]
-Playback powered by [Asciinema](https://asciinema.org)
+Session playback powered by [Asciinema](https://asciinema.org)
 @snapend
 
 ---?terminal=sessions/wordpress.cast&color=#7FDBFF
