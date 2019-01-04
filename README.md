@@ -1,7 +1,9 @@
-[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/gitpitch/feature-demo/pro-fonts)
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/gitpitch/feature-demo/terminal-sessions)
 
-# GitPitch Pro Fonts
+# GitPitch Pro Live Terminal Sessions
 
-Demonstrates the use of *Pro Fonts* when rendering slide content within `PITCHME.md` markdown. See the [GitPitch Docs](https://gitpitch.com/docs/themes) for further details.
+Demonstrates the playback of <a target="_blank" href="https://asciinema.org">Asciinema</a> *live termainal sessions*. See the [GitPitch Docs](https://gitpitch.com/docs/code-features/terminal-sessions) for further details.
 
-View the `raw` **PITCHME.md** markdown and accompanying **assets/css/PITCHME.css** to see how each slide in the presentation has been implemented.
+This feature is support for both online and offline playback.
+
+View the `raw` **PITCHME.md** markdown to see how each slide in the presentation has been implemented.
