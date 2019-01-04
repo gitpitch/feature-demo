@@ -1,0 +1,290 @@
+{
+  "version": 1,
+  "width": 70,
+  "height": 22,
+  "duration": 34.325846,
+  "command": null,
+  "title": "wp-backup",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.362107,
+      "\u001b[3J\u001b[H\u001b[2J"
+    ],
+    [
+      0.018325,
+      "\u001b]777;notify;Command completed;tsocks show\u0007\u001b]0;root@qwerty:/var/www/newwpsite\u0007\u001b]7;file://qwerty/var/www/newwpsite\u0007\u001b[1m[\u001b[1;31m ¯\\_(ツ)_/¯ \u001b[0m] #\u001b[0m "
+    ],
+    [
+      0.75626,
+      "c"
+    ],
+    [
+      0.047899,
+      "d"
+    ],
+    [
+      0.14443,
+      " "
+    ],
+    [
+      0.472057,
+      "/var/www/newwpsite"
+    ],
+    [
+      0.60058,
+      "\r\n"
+    ],
+    [
+      0.024812,
+      "\u001b]777;notify;Command completed;cd /var/www/newwpsite\u0007\u001b]0;root@qwerty:/var/www/newwpsite\u0007\u001b]7;file://qwerty/var/www/newwpsite\u0007"
+    ],
+    [
+      0.000129,
+      "\u001b[1m[\u001b[1;31m ¯\\_(ツ)_/¯ \u001b[0m] #\u001b[0m "
+    ],
+    [
+      2.982184,
+      "/"
+    ],
+    [
+      0.35159,
+      "r"
+    ],
+    [
+      0.192412,
+      "o"
+    ],
+    [
+      0.111676,
+      "o"
+    ],
+    [
+      0.071976,
+      "t"
+    ],
+    [
+      0.320438,
+      "/"
+    ],
+    [
+      0.487902,
+      "b"
+    ],
+    [
+      0.167633,
+      "i"
+    ],
+    [
+      0.072122,
+      "n"
+    ],
+    [
+      0.472357,
+      "/"
+    ],
+    [
+      0.439909,
+      "w"
+    ],
+    [
+      0.135931,
+      "p"
+    ],
+    [
+      0.15988,
+      "-"
+    ],
+    [
+      0.255692,
+      "b"
+    ],
+    [
+      0.088238,
+      "a"
+    ],
+    [
+      0.248055,
+      "c"
+    ],
+    [
+      0.104066,
+      "k"
+    ],
+    [
+      0.207537,
+      "u"
+    ],
+    [
+      0.064183,
+      "p"
+    ],
+    [
+      0.808966,
+      "\r\n"
+    ],
+    [
+      0.008729,
+      "\r\n       ╦ ╦┌─┐┬─┐╔╦╗╔═╗┬─┐┌─┐╔═╗┌─┐  ╔╗ ┌─┐╔═╗╦╔═┬ ┬┌─┐\r\n       ║║║│ │├┬┘ ║║╠═╝├┬┘├┤ ╚═╗└─┐  ╠╩╗├─┤║  ╠╩╗│ │├─┘\r\n"
+    ],
+    [
+      6.4e-05,
+      "       ╚╩╝└─┘┴└─═╩╝╩  ┴└─└─┘╚═╝└─┘  ╚═╝┴ ┴╚═╝╩ ╩└─┘┴\r\n\r\n"
+    ],
+    [
+      7e-05,
+      " \u001b[1;38;5;202mwp-config file found here, use this file\u001b[0m\r\n \u001b[1;38;5;202mfor the current backup?\u001b[0;1m [Y/n]\u001b[0m "
+    ],
+    [
+      5.358684,
+      "\r\n"
+    ],
+    [
+      0.00083,
+      "\r\n \u001b[1;38;5;202mDomain name of the WordPress site to backup:\u001b[0m\r\n "
+    ],
+    [
+      3.487414,
+      "e"
+    ],
+    [
+      0.239437,
+      "x"
+    ],
+    [
+      0.344043,
+      "m"
+    ],
+    [
+      0.351801,
+      "\b\u001b[K"
+    ],
+    [
+      0.112136,
+      "a"
+    ],
+    [
+      0.128065,
+      "m"
+    ],
+    [
+      0.224053,
+      "p"
+    ],
+    [
+      0.127805,
+      "l"
+    ],
+    [
+      0.048067,
+      "e"
+    ],
+    [
+      0.375829,
+      "."
+    ],
+    [
+      0.208365,
+      "c"
+    ],
+    [
+      0.135756,
+      "o"
+    ],
+    [
+      0.064198,
+      "m"
+    ],
+    [
+      0.423866,
+      "\r\n\r\n \u001b[1;38;5;202mProcessing site \u001b[0;1mexample.com...\u001b[0m"
+    ],
+    [
+      4.9e-05,
+      "\r\n"
+    ],
+    [
+      3.3e-05,
+      "\r\n"
+    ],
+    [
+      1.011472,
+      "\u001b[1m -\u001b[0m \u001b[1;38;5;202mBacking up DB for \u001b[0;1mexample.com...\u001b[0m"
+    ],
+    [
+      0.065993,
+      "\u001b[1;38;5;082m OK\u001b[0;1m.\u001b[0m\r\n\u001b[1m -\u001b[0m \u001b[1;38;5;202mBacking up FILES for \u001b[0;1mexample.com...\u001b[0m"
+    ],
+    [
+      0.971084,
+      "\u001b[1;38;5;082m OK\u001b[0;1m.\u001b[0m\r\n"
+    ],
+    [
+      3.7e-05,
+      "\u001b[1m -\u001b[0m \u001b[1;38;5;202mCleaning up folder for \u001b[0;1mnewwpsite...\u001b[0m"
+    ],
+    [
+      0.000577,
+      "\u001b[1;38;5;082m OK\u001b[0;1m.\u001b[0m\r\n\r\n \u001b[1;38;5;082mBackup of \u001b[0;1mexample.com\u001b[1;38;5;082m finished\u001b[0;1m.\u001b[0m\r\n\r\n"
+    ],
+    [
+      2.9e-05,
+      " \u001b[1;38;5;202mBackup file \u001b[0;1m/root/example.com_2017.08.31.tar.gz\u001b[0;1;38;5;202m has been created\u001b[0;1m.\u001b[0m\r\n"
+    ],
+    [
+      0.005482,
+      "\u001b]777;notify;Command completed;/root/bin/wp-backup\u0007\u001b]0;root@qwerty:/var/www/newwpsite\u0007\u001b]7;file://qwerty/var/www/newwpsite\u0007"
+    ],
+    [
+      0.900892,
+      "\r\n"
+    ],
+    [
+      1.2e-05,
+      "\u001b[1m[\u001b[1;31m ¯\\_(ツ)_/¯ \u001b[0m] #\u001b[0m "
+    ],
+    [
+      0.921399,
+      "#"
+    ],
+    [
+      0.223711,
+      " "
+    ],
+    [
+      0.351915,
+      "V"
+    ],
+    [
+      0.224005,
+      "O"
+    ],
+    [
+      0.120253,
+      "I"
+    ],
+    [
+      0.14401,
+      "L"
+    ],
+    [
+      0.072277,
+      "A"
+    ],
+    [
+      1.400892,
+      "\r\n"
+    ],
+    [
+      0.009252,
+      "\u001b]777;notify;Command completed;# VOILA\u0007\u001b]0;root@qwerty:/var/www/newwpsite\u0007\u001b]7;file://qwerty/var/www/newwpsite\u0007"
+    ],
+    [
+      8.7e-05,
+      "\u001b[1m[\u001b[1;31m ¯\\_(ツ)_/¯ \u001b[0m] #\u001b[0m "
+    ]
+  ]
+}
