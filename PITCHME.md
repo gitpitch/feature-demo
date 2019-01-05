@@ -10,17 +10,18 @@
 Online and offline session playback powered by [Asciinema](https://asciinema.org)
 @snapend
 
----?terminal=sessions/wordpress.cast&color=#7FDBFF
+---?terminal=sessions/wordpress.json&color=#7FDBFF&font=small&title=WordPress Backup Demo
 
----?terminal=sessions/wordpress.cast&poster=npt:1:33&color=orange
+---?terminal=sessions/wordpress.json&poster=npt:1:33&color=orange
 
----?terminal=sessions/figwheel.cast&font=16px&theme=solarized-light&poster=npt:2:57&color=#DDDDDD
+---?terminal=sessions/trino.json&font=16px&theme=monokai&poster=npt:0:37&color=#DDDDDD
 
 ---
 
 ### Learn By Example
-#### View The <a target="_blank" href="https://github.com/gitpitch/feature-demo/blob/terminal-sessions/PITCHME.md">Presentation Markdown</a>
+#### View The <a target="_blank" href="https://github.com/gitpitch/feature-demo/blob/pro-terminal-sessions/PITCHME.md">Presentation Markdown</a>
 
 @snap[south text-06 text-gray span-100]
 For further details, see the [GitPitch Docs](https://gitpitch.com/docs/code-features/terminal-sessions).
 @snapend
+
