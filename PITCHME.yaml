@@ -11,3 +11,11 @@ theme : simple
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
 footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+
+#
+# Twitter Card Settings
+# Doc: https://gitpitch.com/docs/settings/twitter-card
+#
+title : "GitPitch Pro Terminal Sessions"
+description : "Record terminal sessions using Asciinema and then share directly within your GitPitch slide decks."
+thumbnail : https://gitpitch.com/gpimg/pro-terminal-thumb.jpg
