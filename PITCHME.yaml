@@ -1,3 +1,7 @@
+#
+# For further details, see https://gitpitch.com/docs/settings.
+#
+
 published : true
 
 #
@@ -13,6 +17,12 @@ theme : simple
 theme-override : assets/css/PITCHME.css
 
 #
+# Highlight (Code) Setting
+# Doc: https://gitpitch.com/docs/settings/highlight
+#
+highlight : agate
+
+#
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
 #
@@ -23,4 +33,18 @@ logo-position : top-left
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+footnote : "Modern Slide Decks for Developers on Git."
+
+#
+# Layout Setting
+# Doc: https://gitpitch.com/docs/settings/layout
+#
+layout : center
+
+#
+# Twitter Card Settings
+# Doc: https://gitpitch.com/docs/settings/twitter-card
+#
+title : "GitPitch UML Diagrams"
+description : "xxx xxx xxx xxx."
+thumbnail : https://gitpitch.com/gpimg/plant-uml-thumb.jpg

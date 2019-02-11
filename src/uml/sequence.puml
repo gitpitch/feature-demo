@@ -1,0 +1,6 @@
+@startuml
+actor Alice #yellow
+participant Bob
+Alice->Bob: Auth Request
+Bob->Alice: Auth Response
+@enduml
