@@ -1,3 +1,5 @@
+@title[Introduction]
+
 @snap[north span-100]
 #### GitPitch Feature Demo
 @snapend
@@ -134,6 +136,7 @@
 @snapend
 
 ---
+@title[UML Diagrams Doc]
 
 ## PlantUML
 #### For Modern Slide Decks
