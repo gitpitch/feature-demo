@@ -45,6 +45,6 @@ layout : center
 # Twitter Card Settings
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "GitPitch UML Diagrams"
-description : "xxx xxx xxx xxx."
-thumbnail : https://gitpitch.com/gpimg/plant-uml-thumb.jpg
+title : "PlantUML for Modern Slide Decks"
+description : "GitPitch delivers pixel-perfect UML diagrams on any slide."
+thumbnail : https://gitpitch.com/gpimg/plantuml-thumb.jpg
