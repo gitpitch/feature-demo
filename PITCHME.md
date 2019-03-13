@@ -6,9 +6,9 @@
 
 ### Tips!
 
-1. See <a target="_blank" href="https://github.com/gitpitch/gitpitch/wiki/Font-Awesome-Icons">Wiki</a> for feature How-To
+1. See <a target="_blank" href="https://gitpitch.com/docs/rich-media-features/font-awesome">Docs</a> for feature How-To
 1. Press `F` to go fullscreen!
-1. See <a target="_blank" href="https://fontawesome.com/v4.7.0/">Font Awesome 4.7 Icon Set</a>
+1. See <a target="_blank" href="https://fontawesome.com/icons?d=gallery&s=brands,solid">Font Awesome 5 Icon Set</a>
 
 ---
 
@@ -17,7 +17,7 @@
 @fa[rocket fa-5x fa-spin]
 
 <br>
-<span class="fa-byline">Over 600 icons at your fingertips ;-)</span>
+<span class="fa-byline">Almost 2000 icons at your fingertips ;-)</span>
 
 ---
 
