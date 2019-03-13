@@ -23,17 +23,17 @@
 
 ## Inline Icons Within Text
 <br>
-### GitPitch @fa[heart] @fa[github], @fa[gitlab], and @fa[bitbucket].
+### GitPitch @fa[heart] @fab[github], @fab[gitlab], and @fab[bitbucket].
 
 ---
 
 ## Use Icons As Bullet-Points
 <br>
 
-- @fa[bar-chart](Bar Chart)
-- @fa[line-chart](Line Chart)
-- @fa[pie-chart](Pie Chart)
-- @fa[area-chart](Area Chart)
+- @fa[chart-bar](Bar Chart)
+- @fa[chart-line](Line Chart)
+- @fa[chart-pie](Pie Chart)
+- @fa[chart-area](Area Chart)
 
 <br>
 <span class="fa-byline">With just one line of custom CSS.</span>
@@ -42,13 +42,13 @@
 
 ## Icons Are Resizable
 <br>
-### GitPitch @fa[heart fa-2x] @fa[github], @fa[gitlab fa-3x], and @fa[bitbucket fa-lg].
+### GitPitch @fa[heart fa-2x] @fab[github], @fab[gitlab fa-3x], and @fab[bitbucket fa-lg].
 
 ---
 
 ## Icons Of Any Color
 <br>
-### @fa[slack fa-2x fa-pink] @fa[git fa-2x fa-peach] @fa[reddit fa-2x fa-lime]
+### @fab[slack fa-2x fa-pink] @fab[git fa-2x fa-peach] @fab[reddit fa-2x fa-lime]
 
 <br>
 <span class="fa-byline">With just one line of custom CSS.</span>
@@ -64,7 +64,7 @@
 
 @title[Icons Fullscreen]
 
-@fa[linux fa-huge]
+@fab[linux fa-huge]
 
 ---
 
