@@ -1,7 +1,10 @@
-## Fragment Slides
-#### Shortcut Syntax
-#### with Speaker Notes
-## Feature Demonstration
+## List Fragments
+#### Markdown Syntax with
+#### Fragment specific Speaker Notes
+
+@snap[south span-100]
+A GitPitch Feature Demonstration
+@snapend
 
 ---
 
