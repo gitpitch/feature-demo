@@ -7,7 +7,7 @@
 
 ### Tips!
 
-- See <a target="_blank" href="https://github.com/gitpitch/gitpitch/wiki/Fragment-Slides">Wiki</a> for feature How-To
+- See the <a target="_blank" href="https://gitpitch.com/docs/markdown-features/list-fragments">List Fragments Guide</a>
 - Press `F` to go fullscreen!
 - Press `S` for speaker notes.
 
