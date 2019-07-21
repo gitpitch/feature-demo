@@ -4,7 +4,6 @@ This repo contains a number of sample GitPitch presentations. Each presentation 
 
 ## Feature Demo Presentations
 
-- [GitPitch Pro Fonts](https://gitpitch.com/gitpitch/feature-demo/pro-fonts)
 - [GitPitch Pro Surveys](https://gitpitch.com/gitpitch/feature-demo/surveys)
 - [GitPitch Pro Terminal Sessions](https://gitpitch.com/gitpitch/feature-demo/pro-terminal-sessions)
 - [Presentation Modular Markdown](https://gitpitch.com/gitpitch/feature-demo/modular-markdown)
