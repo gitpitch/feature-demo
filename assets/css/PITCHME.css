@@ -1,30 +1,8 @@
 .weblink a { color: white; font-weight: bold; }
 
 .rawcode {
-    background: none;
+    background: #E58537 !important;
     box-shadow: none;
-}
-
-/** Code-Presenting Custom Styles ***/
-
-.reveal pre {
-  width: 98%;
-  margin: 0px;
-  box-shadow: none !important;
-}
-
-.reveal pre code {
-  font-size: 1.2em;
-  line-height: 1.2;
-  border-radius: 10px;
-  max-height: 60vh !important;
-  overflow: hidden !important;
-}
-
-@media (device-width: 100vw) and (device-height: 100vh) {
-  .reveal pre code {
-    max-height: 50vh !important;
-  }
 }
 
 .reveal .slides section .code-presenting-annotation {
@@ -36,54 +14,10 @@
   font-size: 50% !important;
 }
 
-/* Slideshow Auxiliary Styles */
-
-#gp-logo img {
-  max-height: 3.5em;
-  max-width: none;
-}
-
-#title-footer a {
-  color: black;
-}
-
-#title-footer p.footer-hard {
-   color: black;
-}
-
-/** Reveal.js Core Override Styles **/
-
-/*
 .reveal section img {
-  border: none;
-  box-shadow: none;
-  background: none;
-}
-*/
-
-.reveal .slide-number {
-  color: black !important;
-}
-
-.reveal blockquote {
-    width: 100%;
-    padding: 17px;
-    border-radius: 17px;
-    background: rgba(255,255,255,0.2);
-}
-
-.reveal p span.slide-title {
-  display: none;
-}
-
-/** Custom Font Styles **/
-
-@font-face {
-  font-family: 'Montserrat Heavy';
-  font-style: normal;
-  font-weight: 900;
-  src: url('/assets/fonts/montserrat-heavy.woff2') format('woff2'),
-       url('/assets/fonts/montserrat-heavy.woff') format('woff');
+    background: rgba(255, 255, 255, 0.12);
+    border: 4px solid #000;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
 }
 
 .reveal h2, .reveal h4 {

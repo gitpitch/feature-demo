@@ -17,7 +17,7 @@
 @snapend
 
 @snap[west span-60]
-@code[uml rawcode zoom-15](src/uml/sequence.puml)
+@code[uml code-noblend rawcode zoom-15](src/uml/sequence.puml)
 @snapend
 
 @snap[east span-40]
