@@ -1,14 +1,20 @@
+@snap[north span-100]
 ## List Fragments
+@snapend
+
+@snap[midpoint span-100]
 #### Markdown Syntax with
 #### Fragment specific Speaker Notes
+@snapend
 
 @snap[south span-100]
 A GitPitch Feature Demonstration
 @snapend
 
 ---
-
+@snap[north span-100]
 ### Tips!
+@snapend
 
 - See the <a target="_blank" href="https://gitpitch.com/docs/markdown-features/list-fragments">List Fragments Guide</a>
 - Press `F` to go fullscreen!
@@ -16,8 +22,9 @@ A GitPitch Feature Demonstration
 
 ---
 
+@snap[north span-100]
 ### Unordered Lists
-<br>
+@snapend
 
 @ul
 
@@ -32,9 +39,10 @@ This is a slide-specific speaker note. It can be temporarily overridden by a fra
 
 ---
 
+@snap[north span-100]
 ### Unordered Lists
 #### Custom Styling
-<br>
+@snapend
 
 @ul[squares]
 
@@ -49,9 +57,10 @@ This is a slide-specific speaker note. It can be temporarily overridden by a fra
 
 ---
 
+@snap[north span-100]
 ### Unordered Lists
 #### Custom Styling
-<br>
+@snapend
 
 @ul[circles]
 
@@ -66,8 +75,9 @@ This is a slide-specific speaker note. It can be temporarily overridden by a fra
 
 ---
 
+@snap[north span-100]
 ### Ordered Lists
-<br>
+@snapend
 
 @ol
 
@@ -82,9 +92,10 @@ This is a slide-specific speaker note. It can be temporarily overridden by a fra
 
 ---
 
+@snap[north span-100]
 ### Ordered Lists
 #### Custom Styling
-<br>
+@snapend
 
 @ol[roman]
 
@@ -99,9 +110,10 @@ This is a slide-specific speaker note. It can be temporarily overridden by a fra
 
 ---
 
+@snap[north span-100]
 ### Ordered Lists
 #### Custom Styling
-<br>
+@snapend
 
 @ol[alpha]
 
@@ -116,9 +128,10 @@ This is a slide-specific speaker note. It can be temporarily overridden by a fra
 
 ---
 
+@snap[north span-100]
 ### Nested Lists
 #### Static Items - Custom Styling
-<br>
+@snapend
 
 @ul[spaced-list-items](false)
 - First Top-Level Item
@@ -134,9 +147,10 @@ This is a slide-specific speaker note. It can be temporarily overridden by a fra
 
 ---
 
+@snap[north span-100]
 ### Nested Lists
 #### Fragment Items - Custom Styling
-<br>
+@snapend
 
 @ul[spaced-list-items]
 - First Top-Level Item
