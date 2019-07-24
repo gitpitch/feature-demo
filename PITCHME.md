@@ -1,10 +1,17 @@
-## Font Awesome Icons
-### (Shortcut Syntax)
-## Feature Demonstration
+@snap[north span-100]
+## Font Awesome 5.0
+@snapend
+
+### Markdown Widget
+
+@snap[south span-100 h3-blue]
+### A Feature Demonstration
+@snapend
 
 ---
-
+@snap[north span-100]
 ### Tips!
+@snapend
 
 1. See <a target="_blank" href="https://gitpitch.com/docs/rich-media-features/font-awesome">Docs</a> for feature How-To
 1. Press `F` to go fullscreen!
@@ -12,56 +19,73 @@
 
 ---
 
+@snap[north span-100]
 ## How Awesome?
+@snapend
 
 @fa[rocket fa-5x fa-spin]
 
-<br>
-<span class="fa-byline">Almost 2000 icons at your fingertips ;-)</span>
+@snap[south span-100 text-gray]
+Almost 2000 icons at your fingertips ;-)
+@snapend
 
 ---
 
-## Inline Icons Within Text
-<br>
+@snap[north span-100]
+## Inline Icons 
+@snapend
+
 ### GitPitch @fa[heart] @fab[github], @fab[gitlab], and @fab[bitbucket].
 
 ---
 
-## Use Icons As Bullet-Points
-<br>
+@snap[north span-100]
+## Icons As Bullet-Points
+@snapend
 
+@ul[list-no-bullets](false)
 - @fa[chart-bar](Bar Chart)
 - @fa[chart-line](Line Chart)
 - @fa[chart-pie](Pie Chart)
 - @fa[chart-area](Area Chart)
+@ulend
 
-<br>
-<span class="fa-byline">With just one line of custom CSS.</span>
+@snap[south span-100 text-gray]
+With just one line of custom CSS.
+@snapend
 
 ---
 
+@snap[north span-100]
 ## Icons Are Resizable
-<br>
+@snapend
+
 ### GitPitch @fa[heart fa-2x] @fab[github], @fab[gitlab fa-3x], and @fab[bitbucket fa-lg].
 
 ---
 
+@snap[north span-100]
 ## Icons Of Any Color
-<br>
+@snapend
+
 ### @fab[slack fa-2x fa-pink] @fab[git fa-2x fa-peach] @fab[reddit fa-2x fa-lime]
 
-<br>
-<span class="fa-byline">With just one line of custom CSS.</span>
+
+@snap[south span-100 text-gray]
+With just one line of custom CSS.
+@snapend
 
 ---
 
-
+@snap[north span-100]
 ## Icons Of Any Size
-<br>
-<span class="fa-byline">With just one line of custom CSS @fa[caret-right]</span>
+@snapend
+
+@snap[south span-100 text-gray]
+With just one line of custom CSS @fa[caret-right]
+@snapend
 
 ---
-
 @title[Icons Fullscreen]
 
 @fab[linux fa-huge]

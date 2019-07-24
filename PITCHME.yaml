@@ -1,4 +1,4 @@
-theme : beige
+theme : template
 theme-override : assets/css/PITCHME.css
 published : true
 footnote : "GitPitch Font Awesome Shortcut Syntax Demo"
