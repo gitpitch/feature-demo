@@ -1,5 +1,5 @@
 /* Enable List Bullet Icons */
-.list-no-bullets { list-style: none; }
+.list-no-bullets { list-style-type : none !important; }
 
 /* Enable Huge Icons */
 .fa-huge { font-size : 15em; color: #eba3ff; }
